@@ -1,0 +1,15 @@
+C:\Users\Muzaffer Enes\source\repos\FileNameEditor\FileNameEditor\bin\Debug\FileNameEditor.exe.config
+C:\Users\Muzaffer Enes\source\repos\FileNameEditor\FileNameEditor\bin\Debug\FileNameEditor.exe
+C:\Users\Muzaffer Enes\source\repos\FileNameEditor\FileNameEditor\bin\Debug\FileNameEditor.pdb
+C:\Users\Muzaffer Enes\source\repos\FileNameEditor\FileNameEditor\obj\Debug\FileNameEditor.csproj.AssemblyReference.cache
+C:\Users\Muzaffer Enes\source\repos\FileNameEditor\FileNameEditor\obj\Debug\FileNameEditor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muzaffer Enes\source\repos\FileNameEditor\FileNameEditor\obj\Debug\FileNameEditor.Form1.resources
+C:\Users\Muzaffer Enes\source\repos\FileNameEditor\FileNameEditor\obj\Debug\FileNameEditor.Properties.Resources.resources
+C:\Users\Muzaffer Enes\source\repos\FileNameEditor\FileNameEditor\obj\Debug\FileNameEditor.csproj.GenerateResource.cache
+C:\Users\Muzaffer Enes\source\repos\FileNameEditor\FileNameEditor\obj\Debug\FileNameEditor.csproj.CoreCompileInputs.cache
+C:\Users\Muzaffer Enes\source\repos\FileNameEditor\FileNameEditor\obj\Debug\FileNameEditor.exe
+C:\Users\Muzaffer Enes\source\repos\FileNameEditor\FileNameEditor\obj\Debug\FileNameEditor.pdb
+C:\Users\Muzaffer Enes\source\repos\FileNameEditor\FileNameEditor\bin\Debug\FileNameEditor.exe.manifest
+C:\Users\Muzaffer Enes\source\repos\FileNameEditor\FileNameEditor\bin\Debug\FileNameEditor.application
+C:\Users\Muzaffer Enes\source\repos\FileNameEditor\FileNameEditor\obj\Debug\FileNameEditor.exe.manifest
+C:\Users\Muzaffer Enes\source\repos\FileNameEditor\FileNameEditor\obj\Debug\FileNameEditor.application
